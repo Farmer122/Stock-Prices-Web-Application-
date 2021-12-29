@@ -3,5 +3,5 @@ A simple Stock Prices Web Application using the streamlit library
 
 This is a Web Application currently showcasing Apple Stock Which Will Update in Real Time. 
 
-I used the the streamlit, pandas and yfiance libraries to achieve this in a simple amount of code.
+I used the the streamlit, pandas and yfiance libraries to achieve this in a small amount of code.
 
